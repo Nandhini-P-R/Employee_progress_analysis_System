@@ -21,6 +21,25 @@ o	Recommends promotion candidates based on performance, tenure, and training.
 o	Highlights training needs for underperforming employees.
 o	Alerts managers about employees with concerning sick leave patterns.
 
+## 🧠 Strategy & Logic
+
+- **Weighted Scoring System**: Calculates a custom `Productivity_Score` using a formula that includes training hours, performance scores, and more.
+- **Rule-Based Evaluation**: Flags employees for resignation risk, promotion eligibility, or training needs using logical conditions.
+- **Dynamic Report Generation**: Generates downloadable PDF evaluations based on current inputs.
+- **Session State Tracking**: Uses Streamlit session state to store user inputs temporarily.
+- **Data Visualizations**: Interactive charts powered by Plotly for insights by department and employee level.
+
+---
+
+## 📂 Features
+
+- 📈 KPI dashboard: Top performers, underperformers, key metrics
+- 🧑‍💼 Employee profile lookup and analysis
+- 📝 Add new evaluation with live recommendations
+- 📄 Generate printable PDF performance reports
+- 📉 Department-wise comparison charts (bar/pie)
+- 📧 Email alert generation using pre-filled `mailto:` links
+
 
 Dataset Link: https://www.kaggle.com/datasets/mexwell/employee-performance-and-productivity-data/data 
 
