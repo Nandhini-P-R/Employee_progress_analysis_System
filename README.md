@@ -3,7 +3,7 @@ The Employee Performance and Productivity Analytics System addresses the challen
 PROBLEM DESCRIPTION:
 The Employee Performance and Productivity Analytics System addresses the challenge of optimizing workforce management by providing actionable insights into employee performance, productivity, and retention risks. Traditional HR systems often lack predictive capabilities and comprehensive analytics, making it difficult for organizations to proactively address issues such as employee attrition, training needs, and promotion readiness. This system leverages machine learning techniques to analyze employee data, predict risks, and recommend interventions, enabling data-driven decision-making for HR professionals and managers.
 
-FUNCTIONALITIES:
+# FUNCTIONALITIES:
 1.	Dashboard:
 o	Displays key performance indicators (KPIs) such as average performance score, employee satisfaction, and resignation risk.
 o	Visualizes performance distribution across the organization.
