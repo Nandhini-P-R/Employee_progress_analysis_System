@@ -21,20 +21,6 @@ o	Recommends promotion candidates based on performance, tenure, and training.
 o	Highlights training needs for underperforming employees.
 o	Alerts managers about employees with concerning sick leave patterns.
 
-DATASET:
-The system uses the Extended Employee Performance and Productivity Data dataset from Kaggle, which includes the following key features:
-•	Employee_ID: Unique identifier for each employee.
-•	Department: The department to which the employee belongs.
-•	Job_Title: The role of the employee.
-•	Performance_Score: Numeric score (1-5) representing employee performance.
-•	Monthly_Salary: The salary of the employee.
-•	Work_Hours_Per_Week: Weekly working hours.
-•	Projects_Handled: Number of projects assigned.
-•	Overtime_Hours: Hours worked beyond regular schedule.
-•	Sick_Days: Number of sick days taken.
-•	Training_Hours: Hours spent in training programs.
-•	Employee_Satisfaction_Score: Self-reported satisfaction score (1-10).
-•	Promotions: Number of promotions received.
-•	Hire_Date: Date of joining the organization.
+
 Dataset Link: https://www.kaggle.com/datasets/mexwell/employee-performance-and-productivity-data/data 
 
