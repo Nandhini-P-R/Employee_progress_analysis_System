@@ -41,6 +41,9 @@ The Employee Performance and Productivity Analytics System addresses the challen
 - 📉 Department-wise comparison charts (bar/pie)
 - 📧 Email alert generation using pre-filled `mailto:` links
 
+---
 
-Dataset Link: https://www.kaggle.com/datasets/mexwell/employee-performance-and-productivity-data/data 
+## 🗃️ Data Requirement
 
+Dataset Link: https://www.kaggle.com/datasets/mexwell/employee-performance-and-productivity-data/data
+Save it as Extended_Employee_Performance_and_Productivity_Data.csv
